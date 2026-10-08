@@ -769,3 +769,5 @@ werss/
 Maintained by WeRSS contributors
 
 </div>
+
+<!-- ci-trigger: pnpm9 fix -->
